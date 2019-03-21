@@ -16,7 +16,7 @@ In this project, we mainly focus on the application of particle image velocimetr
 	Sun, D., et al. (2010). Computer Vision & Pattern Recognition.  
 
 
-This program the basis of the complex motion estimator for fluid flows:
+This program is the basis of the complex motion estimator for fluid flows:
 
   Cai, S., Mémin, E., Dérian, P. and Xu, C. (2017). Motion Estimation under Location Uncertainty for Turbulent Fluid Flow. Experiments in Fluids. 59(8). (https://doi.org/10.1007/s00348-017-2458-z)  
   
