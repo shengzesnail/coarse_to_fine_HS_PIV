@@ -30,7 +30,8 @@ The images of this example are originally provided by FLUID - http://fluid.irisa
 ![image1](https://github.com/shengzesnail/coarse_to_fine_HS_PIV/blob/master/data/image1.png)
 ![image2](https://github.com/shengzesnail/coarse_to_fine_HS_PIV/blob/master/data/image2.png)
 
-### Results - estimated flow field and ground-truth
+
+#### Results - estimated flow field and ground-truth
 
 <div align=center><img height="300" src="https://github.com/shengzesnail/coarse_to_fine_HS_PIV/blob/master/data/uv.png"/></div>
 
