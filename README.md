@@ -1,5 +1,6 @@
 # coarse_to_fine_HS_PIV
-coarse-to-fine variational optical flow method for fluid flows
+
+### coarse-to-fine variational optical flow method for fluid flows
 
 This project is implemented to perform the multi-resolution HS optical flow computing.  
 
@@ -31,4 +32,6 @@ The images of this example are originally provided by FLUID - http://fluid.irisa
 
 ### Results - estimated flow field and ground-truth
 
+![Ground-truth](https://github.com/shengzesnail/coarse_to_fine_HS_PIV/blob/master/data/uv_gt.png)
+![Estimation](https://github.com/shengzesnail/coarse_to_fine_HS_PIV/blob/master/data/uv_est.png)
 
