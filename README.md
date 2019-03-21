@@ -26,8 +26,9 @@ This program the basis of the complex motion estimator for fluid flows:
 
 The images of this example are originally provided by FLUID - http://fluid.irisa.fr/data-eng.htm  
 
-![image1](https://github.com/shengzesnail/coarse_to_fine_HS_PIV/blob/master/coarse_to_fine_HS_PIV/data/image1.png)
-![image2](https://github.com/shengzesnail/coarse_to_fine_HS_PIV/blob/master/coarse_to_fine_HS_PIV/data/image2.png)
+![image1](https://github.com/shengzesnail/coarse_to_fine_HS_PIV/blob/master/data/image1.png)
+![image2](https://github.com/shengzesnail/coarse_to_fine_HS_PIV/blob/master/data/image2.png)
 
+### Results - estimated flow field and ground-truth
 
 
