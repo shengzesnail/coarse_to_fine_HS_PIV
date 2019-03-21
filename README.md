@@ -8,7 +8,7 @@ In this project, we mainly focus on the application of particle image velocimetr
 
 <br> 
 
-#####Main reference:
+##### Main reference:
 
 	Horn, B. and Schunck, B. (1981) Artificial Intelligent. 17:185-203  
 	Ruhnau, P., et al. (2005) Experiments in Fluids 38(1):21-32.  
@@ -23,11 +23,11 @@ This program the basis of the complex motion estimator for fluid flows:
 
 <br> 
 
-#####Usage:  Run the script main.m  
+##### Usage:  Run the script main.m  
   
   <br> 
   
-#####Example:
+##### Example:
 
 The images of this example are originally provided by FLUID - http://fluid.irisa.fr/data-eng.htm  
 
