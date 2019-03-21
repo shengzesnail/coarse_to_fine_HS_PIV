@@ -7,7 +7,7 @@ The Horn & Schunck (HS) method, which is also called variational optical flow, i
 In this project, we mainly focus on the application of particle image velocimetry (PIV), which is a motion estimation technique for fluid flows.
 <br> 
 
-#### Main reference:
+### Main reference:
 
 	Horn, B. and Schunck, B. (1981) Artificial Intelligent. 17:185-203  
 	Ruhnau, P., et al. (2005) Experiments in Fluids 38(1):21-32.  
@@ -20,15 +20,14 @@ This program the basis of the complex motion estimator for fluid flows:
   Cai, S., Mémin, E., Dérian, P. and Xu, C. (2017). Motion Estimation under Location Uncertainty for Turbulent Fluid Flow. Experiments in Fluids. 59(8). (https://doi.org/10.1007/s00348-017-2458-z)  
   
 
-#### Usage:  Run the script main.m  
-  <br> 
+### Usage:  Run the script main.m  
   
-#### Example:
+### Example:
 
 The images of this example are originally provided by FLUID - http://fluid.irisa.fr/data-eng.htm  
 
-![image1](coarse_to_fine_HS_PIV/data/image1.png)
-![image2](coarse_to_fine_HS_PIV/data/image2.png)
+![image1](https://github.com/shengzesnail/coarse_to_fine_HS_PIV/blob/master/coarse_to_fine_HS_PIV/data/image1.png)
+![image2](https://github.com/shengzesnail/coarse_to_fine_HS_PIV/blob/master/coarse_to_fine_HS_PIV/data/image2.png)
 
 
 
