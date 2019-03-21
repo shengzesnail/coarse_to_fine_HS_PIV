@@ -32,6 +32,5 @@ The images of this example are originally provided by FLUID - http://fluid.irisa
 
 ### Results - estimated flow field and ground-truth
 
-![Ground-truth](https://github.com/shengzesnail/coarse_to_fine_HS_PIV/blob/master/data/uv_gt.png)
-![Estimation](https://github.com/shengzesnail/coarse_to_fine_HS_PIV/blob/master/data/uv_est.png)
+![velocity_fields](https://github.com/shengzesnail/coarse_to_fine_HS_PIV/blob/master/data/uv.png)
 
