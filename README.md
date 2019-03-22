@@ -10,10 +10,10 @@ In this project, we mainly focus on the application of particle image velocimetr
 
 ### Main reference:
 
-	Horn, B. and Schunck, B. (1981) Artificial Intelligent. 17:185-203  
+	Horn, B. and Schunck, B. (1981) Artificial Intelligent 17:185-203  
 	Ruhnau, P., et al. (2005) Experiments in Fluids 38(1):21-32.  
-	Heitz, D., et al. (2010) Experiments in Fluids, 48(3):369-393.  
-	Sun, D., et al. (2010). Computer Vision & Pattern Recognition.  
+	Heitz, D., et al. (2010) Experiments in Fluids 48(3):369-393.  
+	Sun, D., et al. (2010) Computer Vision & Pattern Recognition.  
 
 
 This program is the basis of the complex motion estimator for fluid flows:
