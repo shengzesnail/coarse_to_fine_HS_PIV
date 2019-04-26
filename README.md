@@ -1,4 +1,4 @@
-# coarse_to_fine_HS_PIV
+# coarse-to-fine HS for PIV
 
 ### coarse-to-fine variational optical flow method for fluid flows
 
@@ -15,11 +15,23 @@ In this project, we mainly focus on the application of particle image velocimetr
 	Heitz, D., et al. (2010) Experiments in Fluids 48(3):369-393.  
 	Sun, D., et al. (2010) Computer Vision & Pattern Recognition.  
 
+### License and citation:
 
-This program is the basis of the complex motion estimator for fluid flows:
+This repository is provided for research purposes only. 
 
-  Cai, S., Mémin, E., Dérian, P. and Xu, C. (2017). Motion Estimation under Location Uncertainty for Turbulent Fluid Flow. Experiments in Fluids. 59(8). (https://doi.org/10.1007/s00348-017-2458-z)  
+The program is the basis of the complex motion estimator for fluid flows: [Motion Estimation under Location Uncertainty for Turbulent Fluid Flow](https://doi.org/10.1007/s00348-017-2458-z). If you use the codes in your research work, please cite the following paper: 
   
+	@article{cai2018motion,
+  	  title={Motion estimation under location uncertainty for turbulent fluid flows},
+  	  author={Cai, Shengze and M{\'e}min, Etienne and D{\'e}rian, Pierre and Xu, Chao},
+  	  journal={Experiments in Fluids},
+  	  volume={59},
+  	  number={1},
+  	  pages={8},
+  	  year={2018},
+  	  publisher={Springer}
+	}
+
 
 ### Usage:  Run the script main.m  
   
